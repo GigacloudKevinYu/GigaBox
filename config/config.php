@@ -1,12 +1,12 @@
 <?php
 $CONFIG = array (
-  'instanceid' => 'oc5cf95b9cd2',
-  'passwordsalt' => '5bdb3ae258a0ab26e12bf704f48884',
+  'instanceid' => 'ocylhij7d10o',
+  'passwordsalt' => '3ppr04ra7bkm374tsd67o8hzij9ajz',
   'trusted_domains' => 
   array (
     0 => 'localhost',
   ),
-  'datadirectory' => 'D:\\GigaBox\\data',
+  'datadirectory' => 'C:\\wamp\\www\\GigaBox\\data',
   'dbtype' => 'mysql',
   'version' => '7.0.1.1',
   'dbname' => 'GigaBox',
