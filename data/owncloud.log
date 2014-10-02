@@ -1,1 +1,2 @@
 {"app":"PHP","message":"touch(): Unable to create file C:\/wamp\/www\/GigaBox\/data\/owncloud.log because No such file or directory at C:\\wamp\\www\\GigaBox\\lib\\private\\log\\owncloud.php#49","level":3,"time":"2014-09-05T10:44:51+00:00"}
+{"app":"PHP","message":"iconv(): Detected an illegal character in input string at C:\\wamp\\www\\GigaBox\\apps\\search_lucene\\3rdparty\\Zend\\Search\\Lucene\\Analysis\\Analyzer\\Common\\TextNum.php#58","level":3,"time":"2014-09-19T08:41:41+00:00"}
